@@ -23,5 +23,5 @@ def first_element_with_array_methods(array)
 end
 
 def
-  array.last
+  array.
 end
